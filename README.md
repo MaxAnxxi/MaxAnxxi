@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MaxAnxxi</h1>
 <h3 align="center">A junior developper that is really curious about everything</h3>
 
-- 🔭 I’m currently working on [wildygamy](https://github.com/WildCodeSchool-2024-02/JS-lyon-0224-P3-wildygamy)
+- 🔭 I’m currently working on [La Batarde](https://github.com/JulesMarconnier/La-Batarde)
 
 - 📫 How to reach me **maximeserretta@gmail.com**
 
